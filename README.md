@@ -1,2 +1,2 @@
-# Practise
+# Leetcode
 Collection of LeetCode questions.
